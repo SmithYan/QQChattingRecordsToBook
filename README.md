@@ -1,0 +1,2 @@
+# QQChattingRecordsToBook
+将QQ生成的聊天记录生成为书
